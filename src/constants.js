@@ -1,1 +1,1 @@
-export const SERVER_URL = 'https://customerrest.herokuapp.com/api/'
+export const SERVER_URL = 'https://customerrest.herokuapp.com/'
